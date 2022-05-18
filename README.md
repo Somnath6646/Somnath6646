@@ -20,19 +20,19 @@ I am a Android Developer who never works on a app with bad UI. I want to build a
 <p float="left">
 
   <a href="https://twitter.com/somnath6646" title="Redirect to Twitter">
-    <img src="/assets/twitter.png" width="120" alt="Twitter" />
+    <img src="icons8-twitter-48.png" width="auto" alt="Twitter" />
   </a>
   
   <a href="https://www.linkedin.com/in/somnath-mishra-87a5461b7/" title="Redirect to LinkedIn">
-    <U>Linkedin<U>
+        <img src="icons8-linkedin-circled.svg" width="auto" alt="Linkedin" />
   </a>
   
   <a href="https://dribbble.com/somnath6646" title="Redirect to Dribbble">
-    <img src="/assets/dribbble.png" width="120" alt="Dribbble" />
+    <img src="icons8-dribbble-48.png" width="auto" alt="Dribbble" />
   </a>
   
   <a href="https://www.instagram.com/somnath6646/" title="Redirect to Instagram">
-    <img src="/assets/instagram.png" width="120" alt="Instagram" />
+    <img src="icons8-instagram.svg" width="auto" alt="Instagram" />
   </a>
 
 
