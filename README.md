@@ -1,10 +1,10 @@
 ### Hi there, I'm Somnath👋
 
 
-### A Android Developer & UI/UX Designer 🚀 
+###  App Dev & UI/UX Designer 🚀 
 I am a Android Developer who never works on a app with bad UI. I want to build apps that people(a lot of) use.
 
-* 📱 Working on Meaningful mobile apps 
+* 📱 Trying to build Useful mobile apps 
 * 🏫 HighSchool Student Studying Physics, Chemistry, Maths.
 * 💬 Ask me about ``Android``, ``UI/UX Design``, ``Design Systems``  & ``Freelancing Enquiries`` 
 * 📝 Open Source Contributor
