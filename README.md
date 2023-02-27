@@ -2,7 +2,7 @@
 
 
 ###  App Dev & UI/UX Designer 🚀 
-I am a Android Developer who never works on a app with bad UI. I want to build apps that people(a lot of) use.
+I am a Android Developer who never works on a app with bad UI. I want to build apps that people(a lot of) use. Last build: [qrate](http://qrate.live/)
 
 * 📱 Trying to build Useful mobile apps 
 * 🏫 HighSchool Student Studying Physics, Chemistry, Maths.
